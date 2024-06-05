@@ -76,7 +76,9 @@
     <Compile Include="Assets\Scripts\InjectionInstallers\UIInstaller.cs" />
     <Compile Include="Assets\Scripts\AudioSystem\Sound.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement\PlayerMovement.cs" />
+    <Compile Include="Assets\UI\ViewModel\MobileViewModel.cs" />
     <Compile Include="Assets\Resources\UI\ViewTypes.cs" />
+    <Compile Include="Assets\UI\Model\MobileModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\WebGLTemplates\Notices.txt" />
